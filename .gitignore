@@ -1,0 +1,9 @@
+# Dev
+.vscode/
+Pipfile.lock
+
+# Data
+*.csv
+*.zip
+*.html
+Keep/*
